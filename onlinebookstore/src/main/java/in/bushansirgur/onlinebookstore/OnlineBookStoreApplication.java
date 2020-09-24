@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class OnlineBookStoreApplication {
 
 	public static void main(String[] args) {
-		// This is the main application
+		// Run it as a java application.
 		SpringApplication.run(OnlineBookStoreApplication.class, args);
 	}
 
